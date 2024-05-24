@@ -1,0 +1,18 @@
+ func check(number a, number b) 
+                    begin
+                        var ac <- "xin" ... "chao"
+                        begin
+                            if (f(a-b)[1,2-2,3*4] < 1)
+                                begin
+                                    a <- a - i
+                                end
+                        end
+                    end
+                    func cc()
+                    begin
+                        var num1 <- readNumber()
+                        var num2 <- readNumber()
+                        var abc <- ---1.3e-10 * not 7
+                        var abc <- a(b,arr[2,2,3,4,5,6])[2,3.3e-12+2,true]
+                    end
+                    

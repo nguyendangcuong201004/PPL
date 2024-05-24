@@ -1,0 +1,4 @@
+func getNumber() 
+begin
+    string s <- ("Hello" ... " ") ... "World"
+end

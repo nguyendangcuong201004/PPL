@@ -1,0 +1,6 @@
+number a <- 3
+bool b <- true
+string c <- "test string"
+number a1[1, 2] <- [3, 4]
+bool _[0] <- funcall()
+string s[1, 2] <- a1

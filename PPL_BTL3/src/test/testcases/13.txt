@@ -1,0 +1,9 @@
+
+            number a
+            number b
+            func foo(number a,string b) begin
+            end
+            func main() begin
+                foo1()
+            end
+        

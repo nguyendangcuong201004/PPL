@@ -1,0 +1,11 @@
+func main()
+begin
+    for i until i + (sheesh / siuu) by siuu
+        if (siuu != i) 
+        for j until (a[1, siuuu()] != true) by i if (i == j) if (j != 0) break
+        elif (j == 1) continue
+        else break
+        else begin
+        end
+
+end

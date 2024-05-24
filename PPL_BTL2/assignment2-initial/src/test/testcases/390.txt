@@ -1,0 +1,9 @@
+func getNumber() 
+begin
+    return 10
+end
+func main() 
+begin
+    number arr[3] <- [1, 2, 3]
+    arr[getNumber()] <- 10
+end

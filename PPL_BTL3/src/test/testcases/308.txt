@@ -1,0 +1,14 @@
+
+        func func1()
+        func main()
+        begin
+        number a <- func1()
+        end
+        func func2()
+        func func1()
+        begin
+        var b <- func2()
+        return b
+        end
+        func func2() return 1
+        

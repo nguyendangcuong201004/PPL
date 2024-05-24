@@ -1,0 +1,10 @@
+func main()
+begin
+    var bruh <- true
+    number arr[3, 4] <- foo(arr[5, 6])
+    if (arr) ## comment
+    begin
+        foo()
+    end
+    else arr <- foo(arr[foo(arr)])()[1]
+end

@@ -1,0 +1,15 @@
+func main()
+begin
+    if (10 + 20 < 30) 
+    begin
+        number x <- 40
+    end
+    elif (50 - 60 > 70) 
+    begin
+        number y <- 80
+    end
+    else 
+    begin
+        number z <- 90
+    end
+end

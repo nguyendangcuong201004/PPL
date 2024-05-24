@@ -1,0 +1,8 @@
+
+    number a[1, 2]
+    func main() begin
+        dynamic b
+        a[1 + 1, b] <- 1
+        b <- false
+    end
+        

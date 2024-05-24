@@ -1,0 +1,11 @@
+
+            number a
+            bool b
+            func foo() begin
+                number c <- -a
+            end
+            func foo1() begin
+                b <- foo()
+            end
+            func main() return
+        

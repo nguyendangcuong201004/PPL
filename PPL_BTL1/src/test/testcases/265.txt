@@ -1,0 +1,5 @@
+func main(number args[4])
+begin
+    var x <- [1,2,3,]
+
+end

@@ -1,0 +1,6 @@
+
+    func main() begin
+        number a <- 1
+        a <- "bruh"
+    end
+        

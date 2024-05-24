@@ -1,0 +1,8 @@
+
+            number a
+            string b
+            func foo() begin
+                number c <- a + b
+            end
+            func main() return
+        

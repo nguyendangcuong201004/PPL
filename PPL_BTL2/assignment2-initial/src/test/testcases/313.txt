@@ -1,0 +1,4 @@
+func main()
+begin
+    a[2] <- [a[0 + 1, b], funcall("1"...(not 12))]
+end

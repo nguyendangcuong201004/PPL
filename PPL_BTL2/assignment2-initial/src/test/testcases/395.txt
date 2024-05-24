@@ -1,0 +1,12 @@
+func processArray(number arr[3]) 
+    begin
+        for i until 3 by 1 
+        begin
+            arr[i] <- arr[i] * 2
+        end
+    end
+func main()
+begin
+    number arr[3] <- [1, 2, 3]
+    processArray(arr)
+end

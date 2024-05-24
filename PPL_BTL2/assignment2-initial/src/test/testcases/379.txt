@@ -1,0 +1,4 @@
+func getNumber() 
+begin
+    bool result <- true and false or not true
+end

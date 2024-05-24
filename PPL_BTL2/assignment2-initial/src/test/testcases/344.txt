@@ -1,0 +1,5 @@
+func main() begin
+    if (failed) if (chained) print("nuh uh")
+    else print("")
+    else failed <- not true
+end 

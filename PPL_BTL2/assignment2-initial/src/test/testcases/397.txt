@@ -1,0 +1,9 @@
+func add(number a, number b) 
+    begin
+        return a + b
+    end
+func complexFunction(number a, number b) 
+    begin
+        number arr[3] <- [1, 2, 3]
+        number result <- add(arr[0], arr[1]) * arr[2]
+    end

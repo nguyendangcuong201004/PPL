@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(str), StringType, None, BinaryOp(..., StringLit(HelloWorld), StringLit(!))), If((BinaryOp(>, UnaryOp(not, CallExpr(Id(len), [Id(str)])), NumLit(10.0)), CallStmt(Id(print), [StringLit(long string)])), [], CallStmt(Id(print), [StringLit(short string)]))]))])

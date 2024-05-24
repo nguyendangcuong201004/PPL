@@ -1,0 +1,10 @@
+
+    func foo(number a[3, 4])
+    func main() begin
+        dynamic a
+        number b <- foo(a)
+        a <- [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+    end
+            
+    func foo(number a[3, 4]) return 123
+        

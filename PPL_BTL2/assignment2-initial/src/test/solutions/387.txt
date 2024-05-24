@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(add), [VarDecl(Id(a), NumberType, None, None), VarDecl(Id(b), NumberType, None, None)], Block([Return(BinaryOp(+, Id(a), Id(b)))])), FuncDecl(Id(main), [], Block([VarDecl(Id(sum), NumberType, None, NumLit(0.0)), For(Id(i), NumLit(10.0), NumLit(1.0), Block([AssignStmt(Id(sum), CallExpr(Id(add), [Id(sum), Id(i)]))]))]))])

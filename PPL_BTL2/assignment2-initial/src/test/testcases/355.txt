@@ -1,0 +1,19 @@
+func random(number a, string arr[1, 2])
+
+begin
+    if (a = 0) return 1 + a /3
+    return random(a-1)
+end
+
+number a <- 16 / random(a)
+
+func main()
+begin
+    for i until random(i) != "a"...a by random(a)
+    begin
+        if (i == random(a) and not ("a" + true > 1)) writeString("bruh")
+        elif (i + 1 > 2) return 1
+        else
+        return 10
+    end
+end

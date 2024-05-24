@@ -1,0 +1,13 @@
+func main()
+begin
+    var bruh <- true
+    number arr[3, 4] <- foo(arr[5, 6])
+    if (arr) ## comment
+    begin
+        foo()
+    end
+    elif (arr != foo(arr[foo(arr)])[1])
+    for i by 2
+        increment(i *- 2*i)
+    else return 
+end

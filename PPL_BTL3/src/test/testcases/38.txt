@@ -1,0 +1,9 @@
+
+            dynamic a
+            dynamic b
+            number c
+            func main() begin
+                b <- c
+                a <- b
+            end
+        

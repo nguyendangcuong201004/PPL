@@ -1,0 +1,6 @@
+
+    func test(number a, bool b) return true
+    func main() begin
+        test(1, true)
+    end
+        

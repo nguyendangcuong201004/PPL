@@ -1,0 +1,14 @@
+
+    number a
+    string b
+    bool c
+    func main() begin
+        a <- 123
+        b <- "hello"
+        c <- true
+        string a <- "another a"
+        dynamic b <- a
+        var c <- a
+        a <- 456
+    end
+        

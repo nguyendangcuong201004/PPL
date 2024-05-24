@@ -1,0 +1,19 @@
+func complexFunction(number a, number b) 
+func main()
+begin
+    number result <- complexFunction(10, 5)
+end
+func complexFunction(number a, number b) 
+    begin
+        if (a > b) 
+        begin
+            for i until a by 1 
+            begin
+                if (i % 2 = 0) 
+                begin
+                    a <- a - i
+                end
+            end
+        end
+        return a
+    end

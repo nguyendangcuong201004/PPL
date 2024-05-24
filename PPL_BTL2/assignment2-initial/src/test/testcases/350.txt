@@ -1,0 +1,10 @@
+var x <- 1.2e12
+func main()
+begin
+    bool x
+    string c <- bruh
+    dynamic a
+    a[1, main()] <- 1 + foo()
+    bool y[1, 2, 3] <- [a = c, b - foo(), "bye bye"]
+end
+        

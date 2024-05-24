@@ -1,0 +1,15 @@
+number x <- 10
+number y <- 20
+number z <- x * y / 2 + 3 - 4 % 5
+number arr[5] <- [1, 2, 3, 4, 5]
+number sum <- arr[0] + arr[1] * arr[2] - arr[3] / arr[4]
+func calculate(number a, number b, number c) 
+begin
+    return a * b / c + a - b % c
+end
+
+func main()
+begin
+    number result <- calculate(x, y, z)
+    number finalResult <- result + sum * arr[2]
+end

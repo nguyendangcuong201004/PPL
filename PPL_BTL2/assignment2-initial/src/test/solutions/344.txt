@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((Id(failed), If((Id(chained), CallStmt(Id(print), [StringLit(nuh uh)])), [], CallStmt(Id(print), [StringLit()]))), [], AssignStmt(Id(failed), UnaryOp(not, BooleanLit(True))))]))])

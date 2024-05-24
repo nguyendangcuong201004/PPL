@@ -1,0 +1,7 @@
+var x <- 1.2e12
+func main()
+begin
+    number a
+    a[1, main()] <- 1 + foo()
+end
+        

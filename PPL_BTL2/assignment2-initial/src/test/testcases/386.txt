@@ -1,0 +1,8 @@
+func getNumber() 
+begin
+    return 10
+end
+func main()
+begin
+    number arr[3] <- [getNumber(), getNumber(), getNumber()]
+end

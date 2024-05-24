@@ -1,0 +1,7 @@
+
+            var a<-5
+            func foo() return
+            func main() begin
+                var b <- a
+            end
+        

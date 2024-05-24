@@ -1,0 +1,7 @@
+
+    func test() begin
+    end
+    func main() begin
+        test()
+    end
+        

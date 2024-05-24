@@ -1,0 +1,9 @@
+
+        func main()
+        begin
+            var a <- "lmao"
+            for i until abc() by i <- i + 1 print("lmao")
+
+            break
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(final), [], Block([If((BinaryOp(<, CallExpr(Id(final), []), NumLit(2.0)), Return(BinaryOp(!=, ArrayCell(CallExpr(Id(final), []), [NumLit(1.0)]), UnaryOp(not, NumLit(2.0))))), [], None)]))])

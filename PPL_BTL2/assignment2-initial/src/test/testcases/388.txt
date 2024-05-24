@@ -1,0 +1,8 @@
+func add(number a, number b) 
+begin
+    return a + b
+end
+func getNumber() 
+begin
+    return add(10, 20)
+end

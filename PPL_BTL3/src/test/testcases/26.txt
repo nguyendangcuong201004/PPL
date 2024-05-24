@@ -1,0 +1,7 @@
+
+            dynamic a
+            func foo() return
+            func main() begin
+                var b <- a
+            end
+        

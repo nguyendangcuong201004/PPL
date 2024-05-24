@@ -1,0 +1,12 @@
+func main(number args[4])
+begin
+    var x <- [1,2,3,4]
+    dynamic y <- x
+    if (foo(y) - x > (2 <= 3))
+    print(x)
+    else if (bar(x) - y == true) print(y)
+    else for i until true by main() begin
+        for j until i > 10 by 1 break
+    end
+
+end

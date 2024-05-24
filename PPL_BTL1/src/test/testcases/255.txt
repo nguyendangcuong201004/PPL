@@ -1,0 +1,4 @@
+func main(number args[])
+begin
+    return 0
+end

@@ -1,0 +1,7 @@
+
+    func main() begin
+        dynamic a
+        a <- 1000
+        a <- "hello"
+    end
+        

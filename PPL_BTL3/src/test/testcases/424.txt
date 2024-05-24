@@ -1,0 +1,10 @@
+
+dynamic b
+dynamic c
+dynamic d
+func main()
+begin
+    number a[3] <- [b,c,d]
+    number f <- d
+end
+        

@@ -1,0 +1,9 @@
+
+            dynamic a
+            dynamic x
+            dynamic y
+            func foo(number a,string b) return
+            func main() begin
+                number a <- foo(x,y)
+            end
+        

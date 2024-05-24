@@ -1,0 +1,4 @@
+func getNumber() 
+begin
+    number n <- 123 + 456
+end

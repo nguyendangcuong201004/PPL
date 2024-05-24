@@ -1,0 +1,9 @@
+
+            func foo() return
+            func foo1() begin
+                number a[2,3]
+                number b[2,3,4]
+                a <- b
+            end
+            func main() return
+        

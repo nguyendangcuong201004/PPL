@@ -1,0 +1,8 @@
+func add(number a, number b) 
+begin
+    return a + b
+end
+func main()
+begin
+    number result <- add(10 + 20, 30 * 40)
+end

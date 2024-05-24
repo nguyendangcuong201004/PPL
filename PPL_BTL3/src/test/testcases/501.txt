@@ -1,0 +1,5 @@
+
+            func main() return
+            dynamic x
+            number a <- [x]
+        

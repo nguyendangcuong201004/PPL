@@ -1,0 +1,11 @@
+dynamic c
+var d <- "[1, 2, 3]"
+func fun()
+func fun2(number a)
+func fun3(bool b[1, 2])
+
+func fun4(string c) return
+func fun5()
+begin
+    return null
+end

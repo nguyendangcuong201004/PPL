@@ -1,0 +1,9 @@
+func main(number args[4])
+begin
+    var x <- [1,2,3,4]
+    dynamic y <- x
+    if (foo(y) - x > 2 > 3)
+    print(x)
+    ## else if (bar(x) - y == true) print(y) else return false
+
+end

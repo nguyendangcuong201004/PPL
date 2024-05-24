@@ -1,0 +1,4 @@
+func final()
+begin
+    if (final() < 2) return final()[1] != not 2
+end

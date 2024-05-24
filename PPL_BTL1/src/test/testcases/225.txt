@@ -1,0 +1,8 @@
+
+        func main()
+        begin
+            var a <- "lmao"
+            for foo() until lmao + 4 > foo(i) / bar(i) by 1 print("hehe")
+            
+        end
+        

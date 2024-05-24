@@ -1,0 +1,4 @@
+func main()
+begin
+    var a <- foo() + sys[1, 2] == -50e-12
+end

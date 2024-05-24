@@ -1,0 +1,5 @@
+func main(number abc[1,2]) begin
+  break  
+end
+func _()
+ return _()[_()]

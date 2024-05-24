@@ -1,0 +1,7 @@
+
+            dynamic x
+            dynamic y
+            dynamic z
+            number a[2,2] <- [x,[y,z]]
+            func main() return
+        

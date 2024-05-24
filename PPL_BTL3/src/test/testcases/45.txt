@@ -1,0 +1,13 @@
+
+            dynamic a
+            dynamic b
+            number c[2,3]
+            dynamic d
+            func main() begin
+                b <- [2,3,4,a]
+                d <- b
+                if(1) begin
+                    a <- b
+                end
+            end
+        

@@ -1,0 +1,9 @@
+
+            func foo()
+            func main() begin
+                dynamic x
+                number a[2,2] <- [[foo(),x], [4,4]]
+            end
+            
+            func foo() return "abc"
+        

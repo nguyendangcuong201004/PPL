@@ -1,0 +1,10 @@
+func main()
+begin
+    begin
+    begin
+        a <- 3
+        call()
+        return
+    end
+    end
+end

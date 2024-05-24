@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((BinaryOp(==, CallExpr(Id(Qdeptrai), []), BooleanLit(True)), If((BinaryOp(==, CallExpr(Id(above), []), BooleanLit(True)), Return(BooleanLit(True))), [(Id(c), Block([Break])), (Id(d), Return(BooleanLit(False)))], Break)), [(Id(e), Return(CallExpr(Id(main), [Id(quan)])))], Continue)]))])

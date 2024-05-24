@@ -1,0 +1,11 @@
+func main()
+begin
+    if (10 + 20 < 30) 
+    begin
+        number x <- 40
+    end
+    else 
+    begin
+        number y <- 50
+    end
+end

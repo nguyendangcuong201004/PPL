@@ -1,0 +1,8 @@
+
+            dynamic a
+            dynamic x
+            func foo(number a) return a
+            func main() begin
+                foo(x,y)
+            end
+        

@@ -1,0 +1,10 @@
+func main()
+begin
+    for i until i > Q() by Q() - i begin
+        j <- i
+        if (j > 10) break
+        else 
+        continue
+        wee()
+    end
+end

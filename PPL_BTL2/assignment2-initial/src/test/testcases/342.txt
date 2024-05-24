@@ -1,0 +1,7 @@
+func main()
+begin
+    string str <- "HelloWorld"..."!"
+    if (not len(str) > 10)
+    print("long string")
+    else print("short string")
+end 

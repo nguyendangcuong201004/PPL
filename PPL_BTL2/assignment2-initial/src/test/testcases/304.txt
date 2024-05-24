@@ -1,0 +1,2 @@
+dynamic c
+var d <- [1, 2, 3]

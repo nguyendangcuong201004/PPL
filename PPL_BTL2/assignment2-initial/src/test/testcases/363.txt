@@ -1,0 +1,5 @@
+func main()
+begin
+    number a[1, 2] <- [1, 2]
+    a[a[a[2]]] <- [a[a[a[1]]]]
+end

@@ -1,0 +1,27 @@
+func add(number a, number b) 
+begin
+    return a + b
+end
+func subtract(number a, number b) 
+begin
+    return a - b
+end
+func multiply(number a, number b) 
+begin
+    return a * b
+end
+func divide(number a, number b) 
+begin
+    if (b != 0) 
+    begin
+        return a / b
+    end
+    else 
+    begin
+        return 0
+    end
+end
+number x <- add(10, 20)
+number y <- subtract(30, 40)
+number z <- multiply(x, y)
+number result <- divide(z, x)

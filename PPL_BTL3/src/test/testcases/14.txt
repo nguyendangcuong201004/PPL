@@ -1,0 +1,8 @@
+
+            number a[2,3]
+            number c
+            func foo() begin
+                c[1,2]<-5
+            end
+            func main() return
+        

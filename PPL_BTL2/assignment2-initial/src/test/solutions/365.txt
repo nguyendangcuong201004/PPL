@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(name), StringType, None, StringLit(John)), VarDecl(Id(age), NumberType, None, NumLit(25.0)), VarDecl(Id(isStudent), BoolType, None, BooleanLit(True)), Return(BinaryOp(+, BinaryOp(+, BinaryOp(+, BinaryOp(+, Id(name), StringLit( is )), Id(age)), StringLit( years old. Is student? )), Id(isStudent)))]))])

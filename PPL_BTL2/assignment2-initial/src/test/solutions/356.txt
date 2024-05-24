@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(bruh), BoolType, None, BooleanLit(True)), VarDecl(Id(arr), ArrayType([3.0, 4.0], NumberType), None, CallExpr(Id(foo), [ArrayCell(Id(arr), [NumLit(5.0), NumLit(6.0)])]))]))])

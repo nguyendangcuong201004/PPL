@@ -1,0 +1,8 @@
+
+    func test(number a, bool b) return true
+    func main() begin
+        dynamic a
+        bool b <- test(1, a)
+        a <- true
+    end
+        

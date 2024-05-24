@@ -1,0 +1,6 @@
+func main()
+begin
+    if (expr(a) == "exprstr") return false
+    if (a) begin
+    end
+end

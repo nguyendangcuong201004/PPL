@@ -1,0 +1,8 @@
+func main()
+begin
+    string name <- "John"
+    number age <- 25
+    bool isStudent <- true
+    return name + " is " + age + " years old. Is student? " + isStudent
+end
+    

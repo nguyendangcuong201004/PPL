@@ -1,0 +1,8 @@
+
+            dynamic a
+            func foo() return a
+            func main()
+            begin
+                number num <- foo()
+            end
+        

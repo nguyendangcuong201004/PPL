@@ -1,0 +1,11 @@
+func main()
+begin
+    if (Qdeptrai() == true)
+        if (above() == true) return true
+        elif (c) begin
+            break
+        end
+    elif (d) return false
+    else break
+    else continue
+end

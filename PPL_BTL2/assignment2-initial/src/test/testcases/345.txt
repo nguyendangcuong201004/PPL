@@ -1,0 +1,8 @@
+func main(number abc[1,2]) begin
+  break  
+end
+func chinbay()
+begin
+if (main[1] == "95")
+return
+end

@@ -1,0 +1,6 @@
+
+            func foo() begin
+                ## continue
+                ## break
+            end
+        

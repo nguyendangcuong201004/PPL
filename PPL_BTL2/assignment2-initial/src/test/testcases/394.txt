@@ -1,0 +1,19 @@
+func calculate(number a, number b) 
+begin
+    if (a > b) 
+    begin
+        return a - b
+    end
+    elif (a < b) 
+    begin
+        return b - a
+    end
+    else 
+    begin
+        return a * b
+    end
+end
+func main()
+begin
+    number result <- calculate(10, 20)
+end

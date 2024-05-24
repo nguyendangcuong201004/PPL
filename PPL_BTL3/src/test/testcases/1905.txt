@@ -1,0 +1,9 @@
+
+            func foo(number a) 
+            begin
+                number a
+            end
+            func main() begin 
+               
+            end
+            

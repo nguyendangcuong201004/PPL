@@ -1,0 +1,12 @@
+func add(number a, number b) 
+begin
+    return a + b
+end
+func main()
+begin
+    number sum <- 0
+    for i until 10 by 1 
+    begin
+        sum <- add(sum, i)
+    end
+end

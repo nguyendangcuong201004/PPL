@@ -1,0 +1,12 @@
+func main()
+begin
+    var a <- "lmao"
+    for i until not (lmao + 4 > foo(i) / bar(i)) by print("lmao")...print("lmao2") 
+    begin
+        func1()
+        func2(print("hj"))
+        func3(lmao, 1 + not true, func1(), func4()[1, foo()], array[a], 2 < 10)
+    end
+    return
+end
+        

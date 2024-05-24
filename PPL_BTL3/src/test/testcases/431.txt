@@ -1,0 +1,6 @@
+
+    func test(number a, bool b) return true
+    func main() begin
+        bool b <- test(1, test(2, false))
+    end
+        

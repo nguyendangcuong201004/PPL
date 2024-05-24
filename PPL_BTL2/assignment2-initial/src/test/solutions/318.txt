@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((BinaryOp(==, CallExpr(Id(expr), [Id(a)]), StringLit(exprstr)), Return(BooleanLit(False))), [], None), If((Id(a), Block([])), [], None)]))])

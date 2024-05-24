@@ -1,0 +1,4 @@
+func getNumber() 
+begin
+    return 10 + 20
+end

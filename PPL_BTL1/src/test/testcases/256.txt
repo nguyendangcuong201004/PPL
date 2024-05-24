@@ -1,0 +1,6 @@
+func main(number args[4])
+begin
+    string x1 = args[0]
+    string x2 = args[1]
+
+end

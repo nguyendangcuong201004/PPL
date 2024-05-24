@@ -1,0 +1,9 @@
+func printArray(number arr[3]) 
+begin
+    ## print array
+end
+func main()
+begin
+    number arr[3] <- [1 + 2, 3 * 4, 5 / 6]
+    printArray(arr)
+end
